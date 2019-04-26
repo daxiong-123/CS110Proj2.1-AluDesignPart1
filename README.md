@@ -1,2 +1,2 @@
-# proj_2.1
-proj_2.1 in Ca
+# CS110_proj_2.1
+CS110_proj_2.1
