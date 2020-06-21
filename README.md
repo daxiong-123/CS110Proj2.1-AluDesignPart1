@@ -1,2 +1,2 @@
-# CS110_proj_2.1
-CS110_proj_2.1
+# CS110Proj2.1-AluDesignPart1
+CS110Proj2.1-AluDesignPart1
